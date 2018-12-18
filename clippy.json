@@ -43,12 +43,45 @@
   "store.playstation": "Your poor wallet..",
   "spotify": "Did we just teleport to America?",
   "reddit": [
-    "I think these guys need a serious redesign!!",
+    "I don't like the Reddit redesign!",
     "I will never get this... Hmmmmhm...",
     "Have you read it?"
   ],
   "kickass.website": [
     "This website kicks ass! Get it?",
     "Kicking since '94!"
+    
+  ],
+  "deviantart": [
+    "Looking at some artwork?",
+    "Don't forget to favorite it if it's good!"
+  ],
+  "minecraft.net": [
+    "I want to see you build something cool!",
+    "Err..how do you build a crafting table?"
+  ],
+  "wix.com": [
+    "Don't make your website look like all the others!",
+    "Nice website you're building!"
+  ],
+  "slither.io": [
+    "That's alot of slithers!",
+    "Don't get eaten!"
+  ],
+  "cursors.io": [
+    "Remember to help out other people too!",
+    "That's alot of cursors!"
+  ],
+  "beamng": [
+    "I see you like to crash cars.",
+    "Grid Map is my favorite map."
+  ],
+  "apple.com": [
+    "My enemy lives here.",
+  ],
+  "pokemon": [
+    "Do you play the Pokémon video game or the card game?",
+    "Pikachu is my favorite Pokémon!"
   ]
+  
 }
